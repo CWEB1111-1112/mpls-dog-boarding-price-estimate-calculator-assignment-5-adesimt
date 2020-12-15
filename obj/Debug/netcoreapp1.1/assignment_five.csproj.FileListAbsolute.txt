@@ -1,0 +1,12 @@
+C:\Users\adesimt\Desktop\c#\assignment5\bin\Debug\netcoreapp1.1\assignment_five.deps.json
+C:\Users\adesimt\Desktop\c#\assignment5\bin\Debug\netcoreapp1.1\assignment_five.runtimeconfig.json
+C:\Users\adesimt\Desktop\c#\assignment5\bin\Debug\netcoreapp1.1\assignment_five.runtimeconfig.dev.json
+C:\Users\adesimt\Desktop\c#\assignment5\bin\Debug\netcoreapp1.1\assignment_five.dll
+C:\Users\adesimt\Desktop\c#\assignment5\bin\Debug\netcoreapp1.1\assignment_five.pdb
+C:\Users\adesimt\Desktop\c#\assignment5\obj\Debug\netcoreapp1.1\assignment_five.csprojAssemblyReference.cache
+C:\Users\adesimt\Desktop\c#\assignment5\obj\Debug\netcoreapp1.1\assignment_five.AssemblyInfoInputs.cache
+C:\Users\adesimt\Desktop\c#\assignment5\obj\Debug\netcoreapp1.1\assignment_five.AssemblyInfo.cs
+C:\Users\adesimt\Desktop\c#\assignment5\obj\Debug\netcoreapp1.1\assignment_five.csproj.CoreCompileInputs.cache
+C:\Users\adesimt\Desktop\c#\assignment5\obj\Debug\netcoreapp1.1\assignment_five.dll
+C:\Users\adesimt\Desktop\c#\assignment5\obj\Debug\netcoreapp1.1\assignment_five.pdb
+C:\Users\adesimt\Desktop\c#\assignment5\obj\Debug\netcoreapp1.1\assignment_five.genruntimeconfig.cache
